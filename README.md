@@ -4,6 +4,7 @@
 
 1. Clone this repo `git clone https://github.com/SeaDude/news-aggregator.git`
 2. Run `pip install > requirements.txt` to install Python necessary modules
+3. Run `python .\test.py` to generate `.json` files
 
 ### What it (currently) does  
 
